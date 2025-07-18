@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define fast_io ios::sync_with_stdio(false); cin.tie(nullptr);
+#define int long long // optional, use only if you mostly need long long
+
+int32_t main() {
+    fast_io;
+    int t;
+    cin >> t;
+    while (t--) {
+        // solve each test case
+    }
+    return 0;
+}
